@@ -1,2 +1,4 @@
 # CSS-MAMAAAAAAAAAAAA
 UUUUUUUUUUHHHHH
+Site PC: :)
+Site Mobile: :/
