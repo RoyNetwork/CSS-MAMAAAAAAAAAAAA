@@ -1,0 +1,58 @@
+@media only screen and (max-width: 600px) {
+    seletor .id .p .h1 .a .h2{
+        background-color: blue;
+        text-align: center;
+        background-image: url("rickroll-roll.gif");
+        color: black;
+        background-color: aquamarine;
+    }
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 480px)
+{
+    seletor .id .p .h1 .a .h2 {
+        background-color: aquamarine;
+        text-align: center;
+        background-image: url("rickroll-roll.gif");
+            color: black;
+            background-color: aquamarine;
+    }
+}
+
+
+Body{
+    text-align: center;
+    background-image: url("rickroll-roll.gif");
+    background-color: aquamarine;
+}
+
+p {
+    color: aquamarine;
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    color: black;
+    background-color: aquamarine;
+}
+
+a {
+    color: aquamarine;
+    background-color:black ;
+}
+
+h2 {
+    color: rgb(0, 174, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+id {
+    color:blueviolet
+}
